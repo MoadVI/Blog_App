@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started with Vue.js",
+      "body": "Vue.js is a progressive JavaScript framework that makes building user interfaces simple and enjoyable. It provides a flexible and efficient way to create modern web applications. With its intuitive API and powerful features, Vue.js has become one of the most popular frontend frameworks in the world.",
+      "tags": ["vue", "javascript", "frontend"]
+    },
+    {
+      "id": 2,
+      "title": "The Power of Composition API",
+      "body": "The Composition API is a new way to organize and reuse logic in Vue components. It provides better TypeScript support and more flexible code organization. This revolutionary feature allows developers to write more maintainable and scalable applications.",
+      "tags": ["vue", "composition-api", "typescript"]
+    },
+    {
+      "id": 3,
+      "title": "Vue Router Best Practices",
+      "body": "Vue Router is the official router for Vue.js. It deeply integrates with Vue.js core to make building Single Page Applications with Vue a breeze. Learn how to implement routing effectively in your Vue applications.",
+      "tags": ["vue", "router", "spa"]
+    },
+    {
+      "id": 4,
+      "title": "Understanding Vuex State Management",
+      "body": "Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.",
+      "tags": ["vue", "vuex", "state-management"]
+    },
+    {
+      "id": 5,
+      "title": "Vue.js Performance Optimization",
+      "body": "Learn how to optimize your Vue.js applications for better performance. From lazy loading to virtual scrolling, discover techniques that will make your app faster and more efficient.",
+      "tags": ["vue", "performance", "optimization"]
+    }
+  ]

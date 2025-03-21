@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Vue 3",
+    "body": "Vue 3 introduces the Composition API...",
+    "tags": ["vue", "frontend", "javascript"]
+  },
+  {
+    "id": 2,
+    "title": "Modern Web Development Practices",
+    "body": "The web development landscape...",
+    "tags": ["web", "best-practices"]
+  }
+]
